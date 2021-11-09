@@ -4,7 +4,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.4-1/rubyinstaller-2.7.4-1-x64.7z",
-            "hash": "todo",
+            "hash": "2ce384d6970f28778af012b83ea82547798d758a8403dc5cc4c191eaf50ec731",
             "extract_dir": "rubyinstaller-2.7.4-1-x64"
         },
         "32bit": {
