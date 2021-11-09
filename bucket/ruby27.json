@@ -1,16 +1,16 @@
 {
     "homepage": "https://rubyinstaller.org",
-    "version": "2.7.2-1",
+    "version": "2.7.4-1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.2-1/rubyinstaller-2.7.2-1-x64.7z",
+            "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.4-1/rubyinstaller-2.7.4-1-x64.7z",
             "hash": "925cc01d453951d1d0c077c44cec90849afc8d23e45946e19ecd3aaabc0c0ab3",
-            "extract_dir": "rubyinstaller-2.7.2-1-x64"
+            "extract_dir": "rubyinstaller-2.7.4-1-x64"
         },
         "32bit": {
-            "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.2-1/rubyinstaller-2.7.2-1-x86.7z",
+            "url": "https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.4-1/rubyinstaller-2.7.4-1-x86.7z",
             "hash": "b803ca683ba926ffa14037cb8e964601cdd4e7d92688957b365719b4d4a681bd",
-            "extract_dir": "rubyinstaller-2.7.2-1-x86"
+            "extract_dir": "rubyinstaller-2.7.4-1-x86"
         }
     },
     "persist": "gems",
